@@ -79,7 +79,7 @@ html, body {
       position: relative;
       top:-3.7px;
       height:1050px;
-      width:100vw;
+      width:100%;
       padding: 100px 10px 120px;
       background: linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('backg11.jpg') center center/cover no-repeat;
       display: flex;
